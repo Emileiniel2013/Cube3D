@@ -6,7 +6,7 @@ It renders a pseudo-3D world from a 2D map using the **raycasting** technique an
 Built entirely in **C** with **MiniLibX** for rendering, it features:
 - Real-time movement and camera rotation
 - Collision detection
-- Textured wall rendering (if you added that)
+- Textured wall rendering
 - Simple, optimized rendering loop
 
 The project explores how early 3D games simulated depth and perspective with limited resources — from calculating ray directions to projecting walls on screen.
